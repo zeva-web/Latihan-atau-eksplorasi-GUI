@@ -50,7 +50,10 @@ Program ini adalah **Aplikasi Konversi Suhu** berbasis *Graphical User Interface
 
 ## Screenshot Hasil Program
 
-![Screenshot Aplikasi Konversi Suhu]<img width="515" height="330" alt="Cuplikan layar 2026-11-24 074846" src="https://github.com/user-attachments/assets/5f67cb98-d9b2-445e-96fd-84de4691ced9" />
+![Screenshot Aplikasi Konversi Suhu]
+<img width="515" height="330" alt="Cuplikan layar 2026-11-24 074846" src="https://github.com/user-attachments/assets/5f67cb98-d9b2-445e-96fd-84de4691ced9" />
 
-![Screenshot Hasil Konversi dari Aplikasi Suhu]<img width="518" height="325" alt="Cuplikan layar 2026-11-24 074856" src="https://github.com/user-attachments/assets/9bc27a50-6cc9-4f25-9c6f-b92038a66f60" /> 
+
+![Screenshot Hasil Konversi dari Aplikasi Suhu]
+<img width="518" height="325" alt="Cuplikan layar 2026-11-24 074856" src="https://github.com/user-attachments/assets/9bc27a50-6cc9-4f25-9c6f-b92038a66f60" /> 
 
